@@ -1,12 +1,18 @@
 * {
   background: #78ff7d;
+  font-family: sans-serif;
 }
 #Header {
   display: grid;
   height: 100px;
-  grid-template-columns: 300px 1fr 1fr;
+  grid-template-columns: 333px auto 1fr 1fr;
   text-color: black;
   text-style: strong;
   text-decoration-line: none;
   text-size: 30pt;
+}
+
+p {
+  width: 50%;
+  left-margin: 10%;
 }
