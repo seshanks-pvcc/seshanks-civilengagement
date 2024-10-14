@@ -7,7 +7,7 @@
   height: 100px;
   grid-template-columns: 333px auto fit-content(100px) fit-content(100px);
   font-weight: bold;
-  text-size: 30pt;
+  text-size: 48pt;
   border-bottom: 5px solid black;
 }
 
