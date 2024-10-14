@@ -3,7 +3,7 @@
 }
 #Header {
   display: grid;
-  height: 100px
+  height: 100px;
   grid-template-columns: auto 1fr 1fr;
   text-color: black;
   text-style: strong;
