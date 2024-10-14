@@ -4,7 +4,7 @@
 #Header {
   display: grid;
   height: 100px;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 300px 1fr 1fr;
   text-color: black;
   text-style: strong;
   text-decoration-line: none;
